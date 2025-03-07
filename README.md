@@ -1,5 +1,4 @@
- Data Engineer Interview Challenge
-# Data Engineering Assignment
+# Assignment
 
 This repository contains the solution for the data engineering assignment, including the ER diagram, data pipeline, and documentation.
 
